@@ -1,0 +1,28 @@
+category_mapping = {
+    6: "Data Science",
+    12: "HR",
+    0: "Advocate",
+    1: "Arts",
+          24: "Web designing",
+           16: "Mechanical Engineering"
+            22: "Sales"
+             14:"Health and Fitness"
+               5:"Civil Engineering"
+                15:"Java Devoloper"
+                  4:"Business Analyst"
+                   21:"SAP Developer"
+                     2:"Automation Testing"
+                      11:"Electrical Engineering"
+                       18:"Operations Manager"
+                        20:"Python Developer"
+                          8:"DevOps Engineering"
+
+       17:"Network Securit Engineer"
+        19:"PMO"
+          7:"Database"
+           13:"Hadoop"
+           10:"ETL Developer"
+             9:"DotNet Developer"
+               3:"Blockchain"
+                23:"Testing"
+}

@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import re
-import nltk
+
 from io import BytesIO
 from PyPDF2 import PdfReader
 
